@@ -1,0 +1,21 @@
+.country_selector {
+    width: 15%;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+
+}
+
+#country {
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 2px;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+select:hover {
+    opacity: 0.8;
+}
